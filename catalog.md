@@ -23,6 +23,9 @@
 ### General
 * [Web Performance 101](https://3perf.com/talks/web-perf-101/) - Ivan Akulov
 * [Getting to 10x (Results): What Any Developer Can Learn from the Best](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef) - Eric Elliott
+* [10 Interview Questions
+Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) - Eric Elliott
+* [What makes a good frontend developer?](https://zellwk.com/blog/good-frontend-developer/) - Zell Liew
 
 
 ## Talks
