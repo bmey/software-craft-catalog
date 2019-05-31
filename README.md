@@ -5,5 +5,5 @@ A collection of blog posts, talks, videos, and other materials about front end d
 ## Contents
 * [Blog Posts](/catalog.md#blog-posts)
 * [Talks](/catalog.md#talks)
-* [Videos](/catalog.md#videos)
+* [Conferences](/catalog.md#conf)
 * [Misc](/catalog.md#misc)
