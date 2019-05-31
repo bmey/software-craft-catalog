@@ -16,9 +16,6 @@
 * [TDD & The Lump of Coding Fallancy](http://geepawhill.org/tdd-the-lump-of-coding-fallacy/) - Mike Hill
 * [Effective React Testing](https://www.youtube.com/watch?v=Eakp29J38YA) - Jeremy Fairbank
 
-## Videos
-<a name="videos"></a>
-
 
 ## Misc
 <a name="misc"></a>
