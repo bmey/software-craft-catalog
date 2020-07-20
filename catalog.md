@@ -35,7 +35,8 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 * [Please don’t mock me (and other test double advice)](https://vimeo.com/257056050) - Justin Searls
 * [TDD & The Lump of Coding Fallancy](http://geepawhill.org/tdd-the-lump-of-coding-fallacy/) - Mike Hill
 * [Effective React Testing](https://www.youtube.com/watch?v=Eakp29J38YA) - Jeremy Fairbank
-
+* [Find the Right Abstraction Level for Your Tests](https://www.infoq.com/presentations/tests-vocabulary/) - Gerard Meszaros
+* [FOUC, and the Death of Progressive Enhancement](https://youtu.be/HVSkcnIJEC0) - Kyle Simpson
 
 
 ## Conferences
@@ -43,6 +44,14 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 
 * [AssertJS](https://www.assertjs.com/)
 
+
+## People to Follow
+<a name="people"></a>
+* [Dan Abramov](https://overreacted.io/)
+* [Eric Elliott](https://medium.com/@_ericelliott)
+* [Tim Ottinger](http://agileotter.blogspot.com/)
+* [Mike Hill (GeePaw)](https://www.geepawhill.org)
+* [Kyle Simpson](https://me.getify.com/)
 
 
 ## Misc
