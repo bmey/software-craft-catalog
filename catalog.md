@@ -20,6 +20,9 @@
 * [Designer + Developer Workflow](http://danmall.me/articles/designer-developer-workflow/) - Dan Mall
 * [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) - Christian Rohrer (Nielsen Norman Group)
 
+### Leadership
+* [Limits of Mentoring](https://medium.com/@matt.schellhas/limits-of-mentoring-90934bd2eb70) - Matt Schellhas
+
 ### General
 * [Web Performance 101](https://3perf.com/talks/web-perf-101/) - Ivan Akulov
 * [Getting to 10x (Results): What Any Developer Can Learn from the Best](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef) - Eric Elliott
